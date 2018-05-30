@@ -1,0 +1,10 @@
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\bin\Debug\HonestTomatoes.exe.config
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\bin\Debug\HonestTomatoes.exe
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\bin\Debug\HonestTomatoes.pdb
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.csprojAssemblyReference.cache
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.Form1.resources
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.Properties.Resources.resources
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.csproj.GenerateResource.cache
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.csproj.CoreCompileInputs.cache
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.exe
+C:\Users\chime\Projects\Programming\HonestTomatoes\HonestTomatoes\HonestTomatoes\obj\Debug\HonestTomatoes.pdb
